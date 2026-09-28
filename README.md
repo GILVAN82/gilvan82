@@ -12,11 +12,11 @@ AI Engineer building production-oriented LLM systems — agent orchestration, re
 
 ## Featured Projects
 
-| Project | What it does | Access |
+| Project | What it does | Code |
 |---|---|---|
-| **YvY HSE System** (AI Engineering capstone) | AI agent platform — LangGraph orchestration, Agentic RAG, human-in-the-loop approval workflow, PostgreSQL-backed tool calling | Private — case study on request |
-| **SafeCore HSE Assistant** | LangChain + RAG chatbot with hybrid semantic/keyword retrieval and deterministic tool integration | Private — case study on request |
-| **PrepWise AI** | Streamlit AI application with structured prompt evaluation and safety-aware input validation | Private — case study on request |
+| **YvY HSE System** (AI Engineering capstone) | AI agent platform — LangGraph orchestration, Agentic RAG, human-in-the-loop approval workflow, PostgreSQL-backed tool calling | [Repo](https://github.com/GILVAN82/yvy-hse-system) |
+| **SafeCore HSE Assistant** | LangChain + RAG chatbot with hybrid semantic/keyword retrieval and deterministic tool integration | [Repo](https://github.com/GILVAN82/safecore-hse-assistant) |
+| **PrepWise AI** | Streamlit AI application with structured prompt evaluation and safety-aware input validation | [Repo](https://github.com/GILVAN82/prepwise-ai) |
 
 ## Skills
 
