@@ -1,16 +1,28 @@
-## Hi there 👋
+# Gilvan Amorim
 
-<!--
-**GILVAN82/gilvan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | LLM Agents · RAG · Applied AI Systems
 
-Here are some ideas to get you started:
+AI Engineer building production-oriented LLM systems — agent orchestration, retrieval-augmented generation, guardrails, and human-in-the-loop workflows for domains that require traceability and evidence-based outputs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+• AI engineering training (Turing College) · MBA with an AI focus.
+• Focused on agentic architectures: LangGraph orchestration, tool-calling, RAG pipelines, memory, and evaluation/guardrail design.
+
+## Featured Projects
+
+| Project | What it does | Access |
+|---|---|---|
+| **YvY HSE System** (AI Engineering capstone) | AI agent platform — LangGraph orchestration, Agentic RAG, human-in-the-loop approval workflow, PostgreSQL-backed tool calling | Private — case study on request |
+| **SafeCore HSE Assistant** | LangChain + RAG chatbot with hybrid semantic/keyword retrieval and deterministic tool integration | Private — case study on request |
+| **PrepWise AI** | Streamlit AI application with structured prompt evaluation and safety-aware input validation | Private — case study on request |
+| **Interview Practice App** | Turing College Sprint 1 project | [Public repo](https://github.com/GILVAN82/interview-practice-app) |
+
+## Skills
+
+**AI Engineering** — LangGraph · LangChain · RAG (ChromaDB, pgvector) · OpenAI/OpenRouter APIs · prompt-injection guardrails · human-in-the-loop design · agent evaluation
+**Stack** — TypeScript · Python · Angular · React · Node.js · PostgreSQL · Streamlit
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/gilvanamorim/)
