@@ -7,6 +7,7 @@ AI Engineer building production-oriented LLM systems — agent orchestration, re
 ## Background
 
 • AI engineering training (Turing College) · MBA with an AI focus.
+
 • Focused on agentic architectures: LangGraph orchestration, tool-calling, RAG pipelines, memory, and evaluation/guardrail design.
 
 ## Featured Projects
@@ -21,6 +22,7 @@ AI Engineer building production-oriented LLM systems — agent orchestration, re
 ## Skills
 
 **AI Engineering** — LangGraph · LangChain · RAG (ChromaDB, pgvector) · OpenAI/OpenRouter APIs · prompt-injection guardrails · human-in-the-loop design · agent evaluation
+
 **Stack** — TypeScript · Python · Angular · React · Node.js · PostgreSQL · Streamlit
 
 ## Connect
