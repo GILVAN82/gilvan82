@@ -17,7 +17,6 @@ AI Engineer building production-oriented LLM systems — agent orchestration, re
 | **YvY HSE System** (AI Engineering capstone) | AI agent platform — LangGraph orchestration, Agentic RAG, human-in-the-loop approval workflow, PostgreSQL-backed tool calling | Private — case study on request |
 | **SafeCore HSE Assistant** | LangChain + RAG chatbot with hybrid semantic/keyword retrieval and deterministic tool integration | Private — case study on request |
 | **PrepWise AI** | Streamlit AI application with structured prompt evaluation and safety-aware input validation | Private — case study on request |
-| **Interview Practice App** | Turing College Sprint 1 project | [Public repo](https://github.com/GILVAN82/interview-practice-app) |
 
 ## Skills
 
